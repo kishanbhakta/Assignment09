@@ -1,0 +1,39 @@
+                /* Full Body*/
+
+.mainwrapper {
+  width: 60%;
+  height: 450px;
+  border: #30bdc9 solid 2px ;
+}
+                /* Section */
+
+section {
+  overflow: hidden;
+  height: 38px;
+  transition: all 1s ease;
+}
+               /* Containers */
+
+h2 {
+  color: white;
+  background-color: #30bdc9;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 100;
+  font-size: 20px;
+  margin-top: 0;
+  padding: 10px;
+}
+
+h2:hover {
+  background-color: #36d3e0;
+}
+
+p {
+  text-align: justify;
+  margin-left: 45px;
+  margin-right: 45px;
+  color: #999999;
+}
+
+
+
