@@ -5,7 +5,7 @@
   border: #30bdc9 solid 2px ;
 }
                 /* Section */
-
+/* Put each header and paragraph into its own section and applied the transitional styling to each one */
 section {
   overflow: hidden;
   height: 38px;
