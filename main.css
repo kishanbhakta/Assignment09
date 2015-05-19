@@ -1,8 +1,7 @@
                 /* Full Body*/
 
 .mainwrapper {
-  width: 60%;
-  height: 450px;
+  width: 500px;
   border: #30bdc9 solid 2px ;
 }
                 /* Section */
@@ -11,6 +10,10 @@ section {
   overflow: hidden;
   height: 38px;
   transition: all 1s ease;
+}
+
+.firstSection{
+  height: 150px;
 }
                /* Containers */
 
